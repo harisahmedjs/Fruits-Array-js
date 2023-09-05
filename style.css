@@ -1,0 +1,24 @@
+body{
+    background-image: url(https://th.bing.com/th?id=OIP.3ztTE7dCUcDC3TTbq7F2BgHaEo&w=316&h=197&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2);
+    background-size: cover;
+    background-repeat: no-repeat; 
+} 
+
+
+.btn{
+    background-color: orange;
+    color: black;
+    padding: 10px 20px 10px 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    border-radius: 15px 20px 15px 20px;
+    text-align: center;
+    font-size: 1rem;
+}
+p{
+    font-weight: 600;
+    background-color: black;
+    color: white;
+    font-size: 2.5rem;
+}
